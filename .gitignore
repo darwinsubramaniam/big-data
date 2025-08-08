@@ -1,0 +1,4 @@
+jars
+spark-logs
+.env
+.DS_Store
